@@ -1,0 +1,16 @@
+Método,Tipo de Barco,Tiempo (s)
+TVAE,ShipType.Cargo,94.99647307395935
+TVAE,ShipType.Tanker,30.3978488445282
+TVAE,ShipType.Tug,19.668076515197754
+TVAE,ShipType.Fishing,18.592300176620483
+TVAE,ShipType.Passenger,11.53284478187561
+GaussianCopula,ShipType.Cargo,1.419320821762085
+GaussianCopula,ShipType.Tanker,0.6214327812194824
+GaussianCopula,ShipType.Tug,0.5068674087524414
+GaussianCopula,ShipType.Fishing,0.5304884910583496
+GaussianCopula,ShipType.Passenger,0.4306192398071289
+CTGAN,ShipType.Cargo,160.86248230934143
+CTGAN,ShipType.Tanker,61.413554668426514
+CTGAN,ShipType.Tug,38.67700123786926
+CTGAN,ShipType.Fishing,40.29989147186279
+CTGAN,ShipType.Passenger,18.804538249969482
